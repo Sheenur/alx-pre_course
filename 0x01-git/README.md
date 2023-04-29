@@ -1,1 +1,1 @@
-Git repo
+Git repository
